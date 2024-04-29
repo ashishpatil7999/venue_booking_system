@@ -9,6 +9,7 @@ function AdminHome() {
       window.location.href = "/login";
     }
   });
+  //hi i am checking for git 
   return (
     <>
       <section class="spot-banner"></section>
@@ -47,7 +48,7 @@ function AdminHome() {
                   online to increase court utilization and reduce no-shows
                 </p>
               </div>
-            </div>
+            </div> 
             <div class="col-sm-6 col-md-4">
               <div class="feature-box">
                 <img
