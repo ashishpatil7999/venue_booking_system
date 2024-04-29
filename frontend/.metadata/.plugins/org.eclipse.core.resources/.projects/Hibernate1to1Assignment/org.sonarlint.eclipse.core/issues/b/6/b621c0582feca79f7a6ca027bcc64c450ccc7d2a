@@ -1,0 +1,11 @@
+
+f
+java:S1481".Remove this unused "employee1" local variable.(×öù®ÿÿÿÿÿ8ÁâÊ÷¥0Hâ	RMINORZ
+CODE_SMELL
+u
+java:S1854"=Remove this useless assignment to local variable "employee1".(×öù®ÿÿÿÿÿ8ÁâÊ÷¥0Há	RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÁŒ¦¸øÿÿÿÿHÔ	RMAJORZ
+CODE_SMELL
+s
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(¯ÿà’8„Ê‹Ï¥0HÕ	RBLOCKERZBUG

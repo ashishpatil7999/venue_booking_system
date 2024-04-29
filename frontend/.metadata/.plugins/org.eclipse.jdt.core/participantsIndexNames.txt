@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\Web_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700923410.index
+\Mydate\src\main\java
+D:\Web_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3536489114.index
+\UserMgtSystem\src\main\java
+D:\Web_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1813669420.index
+\HelloCdacWeb\src\main\java
+D:\Web_WS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\859532825.index
+\MyDate\src\main\java

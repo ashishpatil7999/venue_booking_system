@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;aboutUs.html&apos; to &apos;webpages&apos;&#x0D;&#x0A;- Original project: &apos;CdacMarch22WebDemo&apos;&#x0D;&#x0A;- Destination element: &apos;webpages&apos;&#x0D;&#x0A;- Original element: &apos;aboutUs.html&apos;" description="Copy file" element1="src/main/resources/templates/aboutUs.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1660029474842" target="/CdacMarch22LMS/src/main/resources/templates/webpages" units="0" version="1.0"/>
+</session>

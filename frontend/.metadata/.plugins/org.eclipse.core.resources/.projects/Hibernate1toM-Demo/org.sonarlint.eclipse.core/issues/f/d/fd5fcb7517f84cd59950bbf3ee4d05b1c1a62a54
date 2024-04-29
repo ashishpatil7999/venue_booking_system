@@ -1,0 +1,31 @@
+
+`
+java:S3740"/Provide the parametrized type for this generic.(¬œ‘âþÿÿÿÿH¦
+RMAJORZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(º¤H§
+RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ñƒ¸èH¨
+RMAJORZ
+CODE_SMELL
+Z
+java:S3740"/Provide the parametrized type for this generic.(£¯ªbH©
+RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(©Ò¹ÈûÿÿÿÿHª
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8ã—ˆŸ¦0H«
+RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿH¬
+RMAJORZ
+CODE_SMELL
+^
+java:S1874"2Remove this use of "setInteger"; it is deprecated.(¸ÌœÂH­
+RMINORZ
+CODE_SMELL
+q
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(íÊ‹ƒúÿÿÿÿH®
+RBLOCKERZBUG

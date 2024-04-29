@@ -1,0 +1,14 @@
+
+n	java:S125)"<This block of commented-out lines of code should be removed.(—µú×8óŸâÉ¥0HüRMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(Ò–Ğ²üÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+q
+java:S2095""EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿH„RBLOCKERZBUG
+q
+java:S20955"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿHúRBLOCKERZBUG
+v
+java:S1128	"CRemove this unused import 'cdac.training.orm.assignment.EmpDetail'.(§Ó´ç8óŸâÉ¥0HûRMINORZ
+CODE_SMELL
+n	java:S125]"<This block of commented-out lines of code should be removed.(Ã±„½8€“™Ê¥0H‹RMAJORZ
+CODE_SMELL
